@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/zero/date_7time_picker/BuildConfig.java
+ com.zero.date_7time_picker.BuildConfig
